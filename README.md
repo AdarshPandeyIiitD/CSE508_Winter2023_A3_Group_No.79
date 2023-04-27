@@ -1,6 +1,7 @@
 # CSE508_Winter2023_A3_Group_No.79
 Assignment 3 repo
-Q1 objectives:
+
+# Q1 objectives:
 Pick a real-world directed network dataset (with number of nodes > 100) from here. [2
 points] Represent the network in terms of its ‘adjacency matrix’ as well as ‘edge list’.
 [28 points] Briefly describe the dataset chosen and report the following:
@@ -41,9 +42,7 @@ density = (number of edges) / (number of possible edges)
 
 
 
-We have picked
-
-Q2: objectives
+# Q2: objectives
 For the dataset chosen in the above question, calculate the following:
 1. [15 points] PageRank score for each node
 2. [15 points] Authority and Hub score for each node
